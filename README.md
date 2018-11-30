@@ -5,7 +5,7 @@
 
 # Installation
 
- Npm i ngx-tag-complet
+ Npm i ngx-tag-complete
 
 # Usage
 
