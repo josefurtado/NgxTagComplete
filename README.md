@@ -9,9 +9,10 @@
 # Usage
 
 >  import { TagcompleteDirective } from 'node_modules/ngx-tag-complete';
-
+```javascript
 import { TagcompleteDirective } from 'node_modules/ngx-tag-complete';
 
 declarations: [
     TagcompleteDirective
 ]
+```
