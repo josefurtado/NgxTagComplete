@@ -1,7 +1,7 @@
 # NgxTagComplete
 
 - A simple shortcuts facilitator.
-- Enter the desired shortcut and press 'Tab'.
+- Enter '#' key and the desired shortcut and press 'Tab'.
 
 # Installation
 
