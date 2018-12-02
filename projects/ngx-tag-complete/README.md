@@ -1,7 +1,7 @@
 # NgxTagComplete
 
 - A simple shortcuts facilitator.
-- Enter the desired shortcut and press 'Tab'.
+- Enter '#' key and the desired shortcut and press 'Tab'.
 
 # Installation
 
@@ -35,3 +35,4 @@ export class AppComponent {
   shortcuts: any[] = [{shortcut: 'adm', value: 'administrator'}, {shortcut: 'ilj', value: 'i love javascript'}]
 }
 ```
+> In input(or textarea) element, press # and type it shortcut, done this, press the tab key.
