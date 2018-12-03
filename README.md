@@ -12,10 +12,10 @@
 > In your module
 >  import { TagcompleteDirective } from 'node_modules/ngx-tag-complete';
 ```javascript
-import { TagcompleteDirective } from 'node_modules/ngx-tag-complete';
+import { NgxTagCompleteModule } from 'node_modules/ngx-tag-complete';
 
-declarations: [
-    TagcompleteDirective
+imports: [
+    NgxTagCompleteModule
 ]
 ```
 
@@ -35,4 +35,4 @@ export class AppComponent {
   shortcuts: any[] = [{shortcut: 'adm', value: 'administrator'}, {shortcut: 'ilj', value: 'i love javascript'}]
 }
 ```
-> In input(or textarea) element, press # and type it shortcut, done this, press the tab key
+> In input(or textarea) element, press # and type it shortcut, done this, press the tab key.

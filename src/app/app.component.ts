@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'TagCompleteLibrary';
+  title = 'NgxTagComplete';
+
+  shortcuts: any[] = [
+    {shortcut: 'adm', value: 'administrator'}, 
+    {shortcut: 'ilj', value: 'i love javascript'},
+    {shortcut: 'bib', value: 'Batman is the best'}]
 }
