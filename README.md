@@ -1,3 +1,5 @@
+> Demo: https://josefurtado.github.io/NgxTagComplete/
+
 # NgxTagComplete
 
 - A simple shortcuts facilitator.
