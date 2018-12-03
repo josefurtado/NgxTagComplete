@@ -12,10 +12,10 @@
 > In your module
 >  import { TagcompleteDirective } from 'node_modules/ngx-tag-complete';
 ```javascript
-import { TagcompleteDirective } from 'node_modules/ngx-tag-complete';
+import { NgxTagCompleteModule } from 'node_modules/ngx-tag-complete';
 
-declarations: [
-    TagcompleteDirective
+imports: [
+    NgxTagCompleteModule
 ]
 ```
 

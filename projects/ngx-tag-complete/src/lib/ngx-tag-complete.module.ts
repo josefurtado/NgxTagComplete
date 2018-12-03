@@ -5,6 +5,6 @@ import { TagcompleteDirective } from './tagcomplete.directive';
   imports: [
   ],
   declarations: [TagcompleteDirective],
-  exports: []
+  exports: [TagcompleteDirective]
 })
 export class NgxTagCompleteModule { }
